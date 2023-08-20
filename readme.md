@@ -17,7 +17,7 @@ Follow these steps to get the web app up and running on your local machine:
 - Search for images by entering keywords in the search bar.
 - Click on the "Search" button or press Enter to retrieve images.
 - Scroll down to see more images and click on the "Show More" button to load additional results.
-- Click on an image to open it in a new tab on Unsplash.com.
+- Click on the text right below the image to open it in a new tab on Unsplash.com.
 
 ## Technologies Used
 
@@ -32,6 +32,9 @@ This project uses the Unsplash API to fetch images. You'll need to sign up for a
 ## Screenshots
 
 Insert screenshots of the web app's user interface and its different functionalities.
+![Search results](C:\Users\91932\Pictures\Screenshots\Screenshot 2023-08-20 193708.png, C:\Users\91932\Pictures\Screenshots\Screenshot 2023-08-20 193804.png)
+![Home Page](C:\Users\91932\Pictures\Screenshots\Screenshot 2023-08-20 193611.png)
+
 
 ## Known Issues
 
