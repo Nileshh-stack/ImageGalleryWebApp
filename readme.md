@@ -32,8 +32,6 @@ This project uses the Unsplash API to fetch images. You'll need to sign up for a
 ## Screenshots
 
 Insert screenshots of the web app's user interface and its different functionalities.
-![Search results](C:\Users\91932\Pictures\Screenshots\Screenshot 2023-08-20 193708.png, C:\Users\91932\Pictures\Screenshots\Screenshot 2023-08-20 193804.png)
-![Home Page](C:\Users\91932\Pictures\Screenshots\Screenshot 2023-08-20 193611.png)
 
 
 ## Known Issues
