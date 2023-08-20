@@ -29,11 +29,6 @@ Follow these steps to get the web app up and running on your local machine:
 
 This project uses the Unsplash API to fetch images. You'll need to sign up for an Unsplash developer account and obtain an access key.
 
-## Screenshots
-
-Insert screenshots of the web app's user interface and its different functionalities.
-
-
 ## Known Issues
 
 - The "Show More" OR "Search" button may not work consistently if the Unsplash API rate limit is exceeded.
